@@ -1,0 +1,8 @@
+C:\DOT NET WGS\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+C:\DOT NET WGS\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+C:\DOT NET WGS\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+C:\DOT NET WGS\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.AssemblyReference.cache
+C:\DOT NET WGS\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.SuggestedBindingRedirects.cache
+C:\DOT NET WGS\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\DOT NET WGS\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+C:\DOT NET WGS\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.pdb
