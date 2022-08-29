@@ -1,0 +1,8 @@
+C:\DOT NET WGS\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\DOT NET WGS\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\DOT NET WGS\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\DOT NET WGS\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+C:\DOT NET WGS\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\DOT NET WGS\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\DOT NET WGS\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\DOT NET WGS\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
