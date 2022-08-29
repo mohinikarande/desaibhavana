@@ -1,0 +1,8 @@
+C:\DOT NET WGS\ArmStrongNumber\ArmStrongNumber\bin\Debug\ArmStrongNumber.exe.config
+C:\DOT NET WGS\ArmStrongNumber\ArmStrongNumber\bin\Debug\ArmStrongNumber.exe
+C:\DOT NET WGS\ArmStrongNumber\ArmStrongNumber\bin\Debug\ArmStrongNumber.pdb
+C:\DOT NET WGS\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.csproj.AssemblyReference.cache
+C:\DOT NET WGS\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.csproj.SuggestedBindingRedirects.cache
+C:\DOT NET WGS\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.csproj.CoreCompileInputs.cache
+C:\DOT NET WGS\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.exe
+C:\DOT NET WGS\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.pdb
