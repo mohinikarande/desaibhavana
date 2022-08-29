@@ -1,0 +1,8 @@
+C:\DOT NET WGS\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\DOT NET WGS\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\DOT NET WGS\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\DOT NET WGS\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+C:\DOT NET WGS\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.SuggestedBindingRedirects.cache
+C:\DOT NET WGS\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\DOT NET WGS\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\DOT NET WGS\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
