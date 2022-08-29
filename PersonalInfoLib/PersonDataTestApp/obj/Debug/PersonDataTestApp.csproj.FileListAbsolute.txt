@@ -1,0 +1,11 @@
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\bin\Debug\PersonDataTestApp.exe.config
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\bin\Debug\PersonDataTestApp.exe
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\bin\Debug\PersonDataTestApp.pdb
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\bin\Debug\PersonalInfoLib.dll
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\bin\Debug\PersonalInfoLib.pdb
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\obj\Debug\PersonDataTestApp.csproj.AssemblyReference.cache
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\obj\Debug\PersonDataTestApp.csproj.SuggestedBindingRedirects.cache
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\obj\Debug\PersonDataTestApp.csproj.CoreCompileInputs.cache
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\obj\Debug\PersonDataTestApp.csproj.CopyComplete
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\obj\Debug\PersonDataTestApp.exe
+C:\DOT NET WGS\PersonalInfoLib\PersonDataTestApp\obj\Debug\PersonDataTestApp.pdb
