@@ -1,0 +1,8 @@
+C:\DOT NET WGS\FireBuzz\FireBuzz\bin\Debug\FireBuzz.exe.config
+C:\DOT NET WGS\FireBuzz\FireBuzz\bin\Debug\FireBuzz.exe
+C:\DOT NET WGS\FireBuzz\FireBuzz\bin\Debug\FireBuzz.pdb
+C:\DOT NET WGS\FireBuzz\FireBuzz\obj\Debug\FireBuzz.csproj.AssemblyReference.cache
+C:\DOT NET WGS\FireBuzz\FireBuzz\obj\Debug\FireBuzz.csproj.SuggestedBindingRedirects.cache
+C:\DOT NET WGS\FireBuzz\FireBuzz\obj\Debug\FireBuzz.csproj.CoreCompileInputs.cache
+C:\DOT NET WGS\FireBuzz\FireBuzz\obj\Debug\FireBuzz.exe
+C:\DOT NET WGS\FireBuzz\FireBuzz\obj\Debug\FireBuzz.pdb
