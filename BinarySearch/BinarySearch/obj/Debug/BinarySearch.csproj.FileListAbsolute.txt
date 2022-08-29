@@ -1,0 +1,8 @@
+C:\DOT NET WGS\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\DOT NET WGS\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\DOT NET WGS\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\DOT NET WGS\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\DOT NET WGS\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\DOT NET WGS\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\DOT NET WGS\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\DOT NET WGS\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
