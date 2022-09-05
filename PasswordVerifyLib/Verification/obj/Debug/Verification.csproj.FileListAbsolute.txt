@@ -1,0 +1,11 @@
+C:\DOT NET WGS\PasswordVerifyLib\Verification\bin\Debug\Verification.exe.config
+C:\DOT NET WGS\PasswordVerifyLib\Verification\bin\Debug\Verification.exe
+C:\DOT NET WGS\PasswordVerifyLib\Verification\bin\Debug\Verification.pdb
+C:\DOT NET WGS\PasswordVerifyLib\Verification\bin\Debug\PasswordVerifyLib.dll
+C:\DOT NET WGS\PasswordVerifyLib\Verification\bin\Debug\PasswordVerifyLib.pdb
+C:\DOT NET WGS\PasswordVerifyLib\Verification\obj\Debug\Verification.csproj.AssemblyReference.cache
+C:\DOT NET WGS\PasswordVerifyLib\Verification\obj\Debug\Verification.csproj.SuggestedBindingRedirects.cache
+C:\DOT NET WGS\PasswordVerifyLib\Verification\obj\Debug\Verification.csproj.CoreCompileInputs.cache
+C:\DOT NET WGS\PasswordVerifyLib\Verification\obj\Debug\Verification.csproj.CopyComplete
+C:\DOT NET WGS\PasswordVerifyLib\Verification\obj\Debug\Verification.exe
+C:\DOT NET WGS\PasswordVerifyLib\Verification\obj\Debug\Verification.pdb
