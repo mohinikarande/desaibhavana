@@ -1,0 +1,11 @@
+C:\DOT NET WGS\HRLib\HDFCCorp\bin\Debug\HDFCCorp.exe.config
+C:\DOT NET WGS\HRLib\HDFCCorp\bin\Debug\HDFCCorp.exe
+C:\DOT NET WGS\HRLib\HDFCCorp\bin\Debug\HDFCCorp.pdb
+C:\DOT NET WGS\HRLib\HDFCCorp\bin\Debug\HRLib.dll
+C:\DOT NET WGS\HRLib\HDFCCorp\bin\Debug\HRLib.pdb
+C:\DOT NET WGS\HRLib\HDFCCorp\obj\Debug\HRApp.csproj.AssemblyReference.cache
+C:\DOT NET WGS\HRLib\HDFCCorp\obj\Debug\HRApp.csproj.SuggestedBindingRedirects.cache
+C:\DOT NET WGS\HRLib\HDFCCorp\obj\Debug\HRApp.csproj.CoreCompileInputs.cache
+C:\DOT NET WGS\HRLib\HDFCCorp\obj\Debug\HRApp.csproj.CopyComplete
+C:\DOT NET WGS\HRLib\HDFCCorp\obj\Debug\HDFCCorp.exe
+C:\DOT NET WGS\HRLib\HDFCCorp\obj\Debug\HDFCCorp.pdb
